@@ -23,17 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthratnakar007-source&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthratnakar007-source&layout=compact&theme=tokyonight" />
-</p>
-
 ## 📫 Connect with Me
 
 - **GitHub:** [https://github.com/siddharthratnakar007-source](https://github.com/siddharthratnakar007-source)
-- 
