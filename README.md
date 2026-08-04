@@ -3,7 +3,7 @@
 🚀 **Aspiring Data Analyst | Python Learner | MCA Aspirant**
 
 🔭 Currently pursuing my **Master of Computer Applications (MCA)** journey  
-🎓 **BCA Graduate / Final Year Student**  
+🎓 **BCA Graduate
 🌱 Currently learning & mastering:
 - **Languages & Tools:** Python, SQL, Excel
 - **Data Analysis Libraries:** Pandas, NumPy, Matplotlib, Seaborn
